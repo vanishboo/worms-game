@@ -1,0 +1,65 @@
+{
+  "Ваня": {
+    "nickname": "Ваня",
+    "wins": 19,
+    "losses": 8,
+    "totalShots": 366,
+    "totalHits": 168
+  },
+  "Ромейн": {
+    "nickname": "Ромейн",
+    "wins": 7,
+    "losses": 11,
+    "totalShots": 173,
+    "totalHits": 58
+  },
+  "синий": {
+    "nickname": "синий",
+    "wins": 1,
+    "losses": 0,
+    "totalShots": 24,
+    "totalHits": 10
+  },
+  "розовый": {
+    "nickname": "розовый",
+    "wins": 0,
+    "losses": 1,
+    "totalShots": 29,
+    "totalHits": 11
+  },
+  "cbybq": {
+    "nickname": "cbybq",
+    "wins": 0,
+    "losses": 0,
+    "totalShots": 14,
+    "totalHits": 1
+  },
+  "fsfadf": {
+    "nickname": "fsfadf",
+    "wins": 3,
+    "losses": 3,
+    "totalShots": 75,
+    "totalHits": 30
+  },
+  "ваня1": {
+    "nickname": "ваня1",
+    "wins": 15,
+    "losses": 18,
+    "totalShots": 252,
+    "totalHits": 109
+  },
+  "ваня2": {
+    "nickname": "ваня2",
+    "wins": 8,
+    "losses": 4,
+    "totalShots": 114,
+    "totalHits": 56
+  },
+  "ваня3": {
+    "nickname": "ваня3",
+    "wins": 1,
+    "losses": 3,
+    "totalShots": 35,
+    "totalHits": 18
+  }
+}
